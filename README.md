@@ -59,14 +59,6 @@ Prepares and cleans incoming message data before sending it to the AI.
 - Detects intent
 - Returns **structured JSON**
 
-**Example Output:**
-```json
-{
-  "intent": "order_status",
-  "confidence": 1
-}
-
-
 ### 4️⃣ IF Node – Confidence Check
 
 Prevents incorrect AI replies.
