@@ -67,7 +67,7 @@ Prepares and cleans incoming message data before sending it to the AI.
 }
 
 
-# 4️⃣ IF Node – Confidence Check
+### 4️⃣ IF Node – Confidence Check
 
 Prevents incorrect AI replies.
 
